@@ -1,2 +1,2 @@
 # G.T.A.P
-Googols Terminal Audio Player
+haha funny music terminal player go boom
